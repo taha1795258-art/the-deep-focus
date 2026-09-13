@@ -1,0 +1,6 @@
+{
+  "name": "The Deep Focus",
+  "description": "A deep focus timer and task manager with tree-growing visualization, customizable bell sound alarms, and manual dismiss controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
